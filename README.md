@@ -1,6 +1,6 @@
 👋 Hi, I’m Debarshi
 
-🔍 I’m crafting seamless and innovative frontend experiences.
+🔍 Crafting seamless and innovative frontend experiences.
 
 🌱 Currently exploring advanced performant frontend and optimizing user interfaces, that push the boundaries of user experience.
 
